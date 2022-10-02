@@ -7,6 +7,7 @@
 - 📫 How to reach me: shahzi113awan@gmail.com
 - 😄 Pronouns: shezi
 - ⚡ Fun fact: Javascript should be materilistic so we can see her
+- Learning SQL
 
 ## Tech Stack 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
