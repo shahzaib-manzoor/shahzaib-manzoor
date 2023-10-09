@@ -1,7 +1,7 @@
 ### Hi there 
 
 - 🔭 I’m currently working on MERN stack
-- 🌱 I’m currently learning Deno
+- 🌱 I’m currently learning TS+LeetCode
 - 👯 I’m looking to collaborate on open sources
 - 💬 Ask me about Javascript
 - 📫 How to reach me: shahzi113awan@gmail.com
