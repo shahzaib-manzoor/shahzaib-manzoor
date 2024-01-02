@@ -24,5 +24,5 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Next](https://img.shields.io/badge/Next-2C2D72?style=for-the-badge&logo=next&logoColor=white)
 ![Mongo](https://img.shields.io/badge/Mongo-005C84?style=for-the-badge&logo=mongo&logoColor=white)
-![Angular.js](https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png)
-![Github](https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png)
+![Angular.js](https://user-images.githubusercontent.com/25181517/183890595-779a7e64-3f43-4634-bad2-eceef4e80268.png?style=for-the-badge&logo=css3&logoColor=white)
+![Github](https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png?style=for-the-badge&logo=css3&logoColor=white)
