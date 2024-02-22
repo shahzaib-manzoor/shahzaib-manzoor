@@ -7,7 +7,7 @@
 - 📫 How to reach me: shahzi113awan@gmail.com
 - 😄 Pronouns: shezi
 - ⚡ Fun fact: Javascript should be materilistic so we can see her
-- Learning SQL
+- Learning Nest js with Prisma and Postgres Db
  <a href="https://app.daily.dev/shahzi113awan"><img src="https://api.daily.dev/devcards/f60020be0e0a45cea23417acf01f4d32.png?r=79z" width="400" alt="shahzaib manzoor's Dev Card"/></a>
 ## Tech Stack 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
