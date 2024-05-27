@@ -30,4 +30,6 @@ Full Stack Developer
 -->
 <a href="https://app.daily.dev/shahzi113awan"><img src="https://api.daily.dev/devcards/v2/mJexSFokrjrnGESfDWsSO.png?type=wide&r=qus" width="652" alt="shahzaib manzoor's Dev Card"/></a>
 
-[![](https://visitcount.itsvg.in/api?id=shahzaib-manzoor&label=Profile%20Views&color=1&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=shahzaib-manzoor&label=Profile%20Views&color=1&icon=5&pretty=false" />
+</a>
