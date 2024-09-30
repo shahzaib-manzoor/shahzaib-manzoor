@@ -33,3 +33,4 @@ Full Stack Developer
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=shahzaib-manzoor&label=Profile%20Views&color=1&icon=5&pretty=false" />
 </a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib-manzoor&layout=compact"/>
