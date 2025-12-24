@@ -5,7 +5,7 @@ Full Stack Developer
 --------------------
 
 * 🌍  I'm based in Pakistan
-* ✉️  You can contact me at [shahzi113awan@gmail.com](mailto:shahzi113awan@gmail.com)
+* ✉️  You can contact me at [shahzi113awan@gmail.com](mailto:shahzaib.manzoor.dev@gmail.com)
 * 🧠  I'm learning AWS
 * 🤝  I'm open to collaborating on open source
 * ⚡  Secret admirer of JS ❤️
